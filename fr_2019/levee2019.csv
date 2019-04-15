@@ -1,0 +1,155 @@
+week_number,startup,amount_raised,sector,description,investors
+2,Talentsoft ,45 M€,"HR, Education, Training, Jobbing",Talentsoft develops SaaS-based integrated talent and competency management solutions.,"['Francisco Partners', 'Bpifrance', 'Goldman Sachs']"
+2,b network ,30 M€,"Logistic, Retail",b network is an event agency that developed a software designed for event planners.,"['Ring Capital', 'business angels']"
+2,Monbuilding ,2 M€,"Real Estate, Construction",Monbuilding provides an application to facilitate communication between the inhabitants of the same building.,"['Naxicap Partners', 'business angels']"
+2,Teambrain ,1.5 M€,"Real Estate, Construction",Teambrain (formerly Kapitaliser) has developed a search engine for companies.,['ide Capital']
+2,PapyHappy ,1.5 M€,"Real Estate, Construction",PapyHappy offers seniors to help them find housing adapted to their needs.,"['BRD IT', 'BCF Croissance & Innovation', 'Bpifrance', 'Groupama Val de Loire']"
+2,illiCopro ,1.5 M€,"Real Estate, Construction",illiCopro publishes a collaborative platform dedicated to the management of condominiums.,"['Samaipata', 'Kima Ventures', 'Le Studio']"
+2,Virage Viager ,NC,Finance,Virage Viager offers an intergenerational savings solution.,['réfon']
+3,Onepark ,15 M€,Transport,Onepark publishes a platform for parking place reservations.,"['AccorHotels', 'ADP', 'Keolis', 'business angels']"
+3,Energisme ,11 M€,Energy,Energisme has designed a platform to map energy expenditures.,['business angels']
+3,Sencrop ,8.7 M€,"Food, Agri-business","Sencrop is a weather station connected to a SaaS platform that measures and analyses data for farmers, winegrowers and arborists.","['Bpifrance', 'NCI Waterstart', 'Nord Capital Partenaires', 'The Yield Lab', 'Demeter', 'Breega Capital']"
+3,Beendhi ,4 M€,"Food, Agri-business",beendhi specialises in vegetable-based culinary preparations..,"['Daphni', 'Triodos Organic Growth Fund', 'Spice Capital', 'Quadia']"
+3,My-Serious-Game ,3 M€,"HR, Education, Training, Jobbing",My-Serious-Game designs tailor-made digital training courses.,"['Go Capital', 'Galia Gestion', 'A Plus Finance']"
+3,SchoolMouv ,2.5 M€,"HR, Education, Training, Jobbing",SchoolMouv designs educational videos.,"['M Capital Partners', 'Matmum Innovation', 'Swen Capital Partners']"
+3,Coinhouse ,2.4 M€,Finance,Coinhouse offers a cryptoassets exchange platform.,"['ConSensys Ventures', 'Digital Currency Group', 'BTU Protocol', 'XAnge', 'business angels']"
+3,Marbotic ,2 M€,"HR, Education, Training, Jobbing",Marbotic manufactures connected educational toys.,"['Turenne capital', 'family offices']"
+3,Qape ,2 M€,Finance,Qape offers an insurance comparison service based on AI and Big Data technologies.,['NC']
+3,Cutii ,1.7 M€,Services to individuals,Cutti is a networking platform offering activities for the elderly.,"['Ircem Prévoyance', 'business angels']"
+3,Singulart ,1.5 M€,Indoor and outdoor decoration,Singulart develops an online art gallery.,"['Bpifrance', 'business angels']"
+3,Epopia ,1.5 M€,Children,Epopia is a role-playing game by postal mail for children aged 5 to 10. .,"['Capital Grand Est', 'Alsace Business Angels', 'Ader Investissements', 'IBF', 'LDE', 'Media Participations', 'business angels']"
+3,Stimio ,1.3 M€,Transport,Stimio designs and markets connected objects for the railway and construction sectors.,['CM-CIC Innovation']
+3,CarJager ,1.2 M€,"Tourism, Leasure",CarJager is a vintage cars marketplace.,['business angels']
+3,Addworking ,1.2 M€,IT Consulting,Addworking publishes a management solution for external resources.,"['Edenred Capital Partners', 'Seed4Soft', 'Holnest Club', 'business angels']"
+3,PayTrip ,1 M€,Finance,PayTrip offers a solution for transferring money between members of a same family..,['business angels']
+3,MonsieurGourmand.com ,750 000€,"Food, Agri-business",MonsieurGourmand.com offers a catering service for companies.,"['Kreaxi', 'Evolem', 'Crédit Agricol Création', 'business angels']"
+3,Staffman ,600 000€,IT Consulting,Staffman is a staffing platform.,['ellowork']
+4,Wynd ,72 M€,"Logistic, Retail",Wynd develops a SaaS to digitize retailers' points of sale. ,"['Natixis', 'Sofina', 'BNF Capital', 'Sodexo Ventures']"
+4,Schoolab ,10 M€,"HR, Education, Training, Jobbing",Schoolab is an innovation studio dedicated to training and consulting.,"['French Tech Accélération', 'business angels']"
+4,Tech on Mars ,7 M€,"HR, Education, Training, Jobbing",Tech on Mars developed an e-learning mobile app.,"['Omnes', 'Région Sud Investissement']"
+4,Zoov ,6 M€,Transport,Zoov offers ebike-sharing services.,"['Daphni', 'C4 Ventures', 'Road Ventures', 'BNP Paribas Développement', 'Banque des Territoires']"
+4,Admo.tv ,6 M€,Marketing & Communication,Admo.tv is a TV and radio analytics platform.,"['Runa Capital', 'Entrepreneur Venture', 'Cap Décisif']"
+4,Antidot ,5.5 M€,Enterprise software,Antidot created a content delivery platform.,"['Ventech', 'CM-CIC Innovation']"
+4,Mooncard ,5 M€,Finance,Mooncard develops an expense management solution.,"['Raise', 'Aglae Ventures', 'business angels']"
+4,Addworking ,1.2 M€,Enterprise software,Addworking delivers a SaaS solution for external workers management.,"['Edenred Capital Partners', 'Seed4Soft', 'Club Holnest']"
+4,Keetiz ,650 000€,Finance,Keetiz is specialized in customer loyalty and publishes a cashback application.,"['Sofilaro', 'Bpifrance', 'business angels']"
+4,Reetags ,NC,Marketing & Communication,Reetags is a social network that allows brands to increase their popularity through microinfluence.,['business angels']
+4,delitoon ,NC,"Media, Culture and Entertainment",delitoon offers a platform dedicated to webtoon and digital manga.,['ne Innovation']
+5,ContentSquare ,52 M€,Marketing & Communication,ContentSquare offers Web and mobile sites optimization solutions. ,"['Eurazeo Croissance', 'Canaan Partners', 'Highland CD Europe', 'H14']"
+5,Zenpark ,10 M€,Transport,Zenpark offers parking spaces sharing services. ,"['EDF', 'RATP Capital Innovation', 'Demeter', 'Maif Avenir', 'Nestadio Capital', 'A-venture']"
+5,Diota ,7 M€,Enterprise software,Diota provides Augmented Reality software solutions to digitize and optimize industrial processes.,"['CM-CIC', 'Safran Corporate Ventures', 'Supernova Invest', 'Calao Finance', 'Bpifrance']"
+5,TheraPanacea ,3.5 M€,"Health, Beauty",TheraPanacea specializes in machine learning and AI applied to personalized medicine. ,['Therinvest']
+5,LeCiseau ,3.2 M€,"Health, Beauty",LeCiseau has developed an online booking platform for hairdressers. ,"['Matmut Innovation', '123 IM', 'UL Invest']"
+5,Tracktor ,3 M€,"Real Estate, Construction",Tracktor operates an online construction equipment and vehicles rental platform.,"['Kerala Ventures', 'BTP Capital Investissement', 'Kima Ventures', 'business angels']"
+5,SiRFULL Technology ,2 M€,Enterprise Software,SiRFULL Technology is specialized in the digital transformation of the process industry. ,"['Wille Finance AG', 'Demeter', 'SCR Alsace Création']"
+5,Ovrsea ,1.9 M€,Transport,Ovrsea offers a web interface to automate the administrative tasks of freight transport. ,"['Bpifrance', 'Kima Ventures', 'business angels']"
+5,Tridimeo ,1.3 M€,Enterprise Software,Tridimeo designs and manufactures industrial 3D cameras dedicated to inspection and robotic guidance. ,"['Sofimac Investment Managers', 'CEA Investissement']"
+5,Potion Social ,1 M€,Marketing & Communication,Potion Social (ex-Creseo) publishes a solution for the creation and management of communities for retailers.,"['Finorpa SCR', 'Nord France Amorçage']"
+5,Kalkin ,500 000€,"Tourism, Leisure",Kalkin develops 3D mapping solutions for the tourism and sports industries. ,"['Sofimac Investment Managers', 'Crédit Agricole Centre France']"
+5,Pic&Pick ,150 000€,"Media, Culture and Entertainment",Pic&Pick is an image bank based on Instagram. ,['business angels']
+6,Lunchr ,30 M€,"Food, Agri-business","Lunchr provides corporate lunch solutions (group ordering, couponing, payment app). ","['Index Ventures', 'Kima Ventures', 'Daphni', 'Idinvest']"
+6,Wizbii ,12.5 M€,"HR, Education, Training, Jobbing",Wizbii publishes a professional social network for young people.,"['Oddo BHF', 'Caphorn Invest', 'Sigma Gestion', 'Matmut Innovation', 'Alliance Entreprendre']"
+6,Dolmen ,9 M€,Marketing & Communication,Dolmen is a local customer marketing platform used by points of sale.,"['Mediapost', 'Salesforce Ventures\xa0']"
+6,Pretto ,8 M€,Finance,Pretto offers an online real estate loan brokerage platform. ,"['Kernel', 'Blackfin', 'Alven']"
+6,Deepomatic ,5.5 M€,Enterprise software,Deepomatic designs an AI image recognition platform.,"['Hi Inov', 'Alven', 'business angels']"
+6,Chefing ,4 M€,"Food, Agri-business",Chefing is a catering network for professional events.,"['Financière Saint-James', 'business angels']"
+6,Testamento ,3 M€,Services to individuals,Testamento offers a will management solution.,"['La France Mutualiste', 'Allianz', 'Malakoff Médéric']"
+6,Lavoir Moderne ,2 M€,Services to individuals,Lavoir Moderne develops an online laundry solution.,['business angels']
+6,Convelio ,1.85 M€,Transport,Convelio offers an online art shipping solution.,"['Global Founders Capital', 'business angels']"
+6,OurCo ,1.6 M€,Enterprise software,OurCo develops a B2B collaborative app that aiming to free up speech at work.,['business angels']
+6,Ambler ,1.5 M€,"Health, Beauty",Ambler is an intermediation platform connecting health care prescribers to ambulance companies.,"['Partech', 'Idinvest Partners', 'Kima Ventures', 'business angels']"
+6,Agriloops ,1.4 M€,"Food, Agri-business",Agriloops operates saltwater aquaponic farms for growing shrimps and vegetables. ,"['OGHI', 'BNP Paribas Développement', 'business angles']"
+6,Timetonic ,760 000€,Enterprise software,Timetonic is a B2B collaboration solution. ,"['Odesey LP', 'business angels']"
+6,Béton Direct ,650 000€,"Real Estate, Construction",Béton Direct is an e-commerce solution for concrete and mortars. ,['ehr']
+6,Gulplug ,440 000€,Green and sustainable development,Gulplug develops technologies dedicated to energy efficiency and industry 4.0. ,['business angels']
+6,Copeeks ,220 000€,"Food, Agri-business",Copeeks develops solutions to optimize farm management. ,['business angels']
+6,NV Gallery ,NC,Indoor and outdoor decoration,NV Gallery is a digital native vertical brand (DNVB) offering interior furnitures and accessories. ,['xperienced Capital Partners']
+7,Malt ,25 M€,"HR, Education, Training, Jobbing",Malt publishes a platform dedicated to freelancers.,"['Idinvest', 'ISAI', 'Serena']"
+7,Virtuo ,20 M€,Transport,Virtuo offers a dematerialized car reservation service. ,"['Iris Capital', 'Raise', 'Balderton Capital']"
+7,Yes We Hack ,4 M€,Security & Cybersecurity,Yes We Hack links organizations or companies in need of IS security with hackers. ,"['CNP Assurances', 'Normandie Participations']"
+7,Plug In Digital ,2 M€,Video Games,"Plug In Digital publishes and distributes PC, console and mobile video games.",['nter Invest Capital']
+7,Dark Kitchen ,1 M€,"Food, Agri-business",Dark Kitchen is a delivery-only food brand. ,['ery']
+7,MyDataModels ,1 M€,"HR, Education, Training, Jobbing",MyDataModels develops and markets TADA - an Automated Machine Learning software that builds and runs predictive models.,['arlybird Venture Capital']
+7,EureCab ,700 000€,Transport,EureCab publishes a fare comparison platform between taxis and other private drivers.,['business angels']
+7,Call A Lawyer ,500 000€,"Administrative, Legal, Accountancy",Call A Lawyer publishes a mobile application for instant contact with lawyers. ,['business angels']
+7,Energic ,500 000€,Green & sustainable development,Energic offers a digital tool to raise employee awareness on corporate environmental performance.,['business angels']
+8,Alan ,40 M€,Finance,Alan is a digital health insurance platform. ,"['Index Ventures', 'DST Global']"
+8,Colonies ,11 M€,"Real Estate, Construction",Colonies offers community housing solutions in large cities. ,"['Idinvest Partners', 'Global Founders Capital', 'Kima Ventures', 'Financière Saint James']"
+8,Typology ,8.8 M€,"Health, Beauty",Typology is a cosmetic DNVB (Digital Native Vertical Brand). ,"['Alven Capital', 'Firstminute Capital', 'business angels']"
+8,Sybel ,5 M€,"Media, Culture and Entertainment",Sybel offers a podcast platform. ,"['Mangrove', 'business angels']"
+8,Thegreendata ,2 M€,"Food, Agri-business",Thegreendata publishes applications for the agricultural and agri-food sectors. ,"['Fireca', 'CapDécisifManagement', 'business angels']"
+8,ITrust ,2 M€,Security & Cybersecurity,ITrust develops IT security technologies.,"['Le Ronsard', 'Sorepar', 'Nestadio Capital', 'Groupe Scopelec']"
+8,LouerAgile ,1.5 M€,"Real Estate, Construction",LouerAgile is an online platform to find accommodation in Paris.,"['Newfund', 'Kima Ventures', 'The Family', 'business angels']"
+8,Solylend ,1.4 M€,Green and sustainable development,Solylend is a crowdfunding platform for innovative projects with positive impact.,"['Technostart', 'Région Nouvelle Aquitaine', 'Bpifrance']"
+8,Japhy ,1 M€,Animals,Japhy is a tailor-made dog food brand sold on the Internet by subscription.,"['Aglaé Ventures', 'business angels']"
+8,Sparted ,NC,"HR, Education, Training, Jobbing",Sparted offers companies a game platform for micro learning on mobile devices.,['ia Partners']
+8,TrainMe ,NC,Sports,TrainMe is a platform that connects sport coaches and individuals.,['business angels']
+9,Mirakl ,62 M€,Enterprise software,Mirakl provides an online marketplace platform and dropship solutions.,"['Bain Capital', '83North', 'Elaia Partners']"
+9,Botify ,17.5 M€,Marketing & Communication,"Botify is a suite of applications to merge technical SEO, content, and real rankings for Enterprise Websites.","['Idinvest Partners', 'Ventech']"
+9,Odaseva ,10 M€,Enterprise software,Odaseva develops cloud-based software solutions for Salesforce customers. ,"['Partech', 'Salesforce Ventures', 'Serena']"
+9,Primo1D ,6 M€,Enterprise software,Primo1D provides a traceability solution through a yarn containing electronics.,"['Michelin Ventures', 'BNP Paribas Développement', 'Sofimac IM', 'Kreaxi', 'Espansinvest', 'C2AD', 'Auvergne-Rhônes-Alpes Angels']"
+9,Yeeld ,1.1 M€,Finance,Yeeld provides mobile saving accounts.,['business angels']
+9,Kobus ,1 M€,"Health, Beauty",Kobus develops a tool to monitor physiotherapy pathway care.,['ide Capital']
+9,Salvum ,1 M€,Enterprise software,Salvum publishes an in-company training software to teach first aid procedures.,"['Banque des Territoires', 'Groupe Renault', 'Idinvest Partners', 'Swen Capital Partners']"
+9,Yuka ,800 000€,"Food, Agri-business",Yuka is an application that scans and analyzes your diet.,"['Investir&+', 'Founders Future', 'Kima Ventures', 'business angels']"
+9,MrSuricate ,500 000€,Security & Cybersecuurity,MrSuricate is a platform that tests vulnerabilities of a site of application and thus detect cybersecurity problems.,"['Pays de la Loire Développement', 'Pays de la Loire Participations', 'BNP Paribas']"
+10,Shift Technology ,53 M€,Enterprise software,Shift Technology publishes insurance fraud detection software.,"['Bessemer Venture Partners', 'Accel Partners', 'General Catalyst', 'Iris Capital']"
+10,GamersOrigin ,3 M€,Video Games,GamersOrigin is an e-sport team.,"['Entrepreneur Venture', 'Pinou Capital']"
+10,Homeland ,2 M€,"Real Estate, Construction",Homeland is a digitized condo management platform.,"['Newfund', 'business angels']"
+10,Hire ,400 000€,"HR, Education, Training, Jobbing",Hire publishes a matching platform dedicated to recruitment.,['NC']
+10,Quortex ,NC,"Media, Culture and Entertainment",Quortex provides a cloud-based video delivery solution.,['business angels']
+11,Trusk ,7 M€,Transport,Trusk develops a delivery service in urban areas.,"['Via ID', 'Daphni']"
+11,Implicity ,4 M€,"Health, Beauty",Implicity developed a remote monitoring platform for patients with connected pacemakers and defibrillators.,"['Serena Capital', 'XAnge', 'Cap Décisif Management']"
+11,Muzeek ,1.5 M€,"Media, Culture and Entertainment",Muzeek has created an audio creation solution dedicated to video producers.,"['OneRagtime', 'Bpifrance']"
+11,Eloa ,1.3 M€,Finance,Eloa publishes a collaborative platform for credit and insurance distribution.,['business angels']
+11,Inlead ,1.2 M€,Marketing & Communication,Inlead is a platform for geolocated digital campaigns.,"['Inwest Group', 'West Web Valley']"
+11,Cocoonr ,1.1 M€,"Real Estate, Construction",Cocconr develops a short-term rental booking platform.,"['Bpifrance', 'Crédit Mutuel de Bretagne', 'Crédit Agricole', 'business angels']"
+11,Misakey ,1 M€,Enterprise Software,Misakey offers a personal data management platform.,"['XAnge', 'CapDécisif']"
+11,Siga ,1 M€,"Food, Agri-business",Siga developed a food quality index.,"['Newfund', 'Bpifrance']"
+11,Tekyn ,1 M€,"Fashion, Luxury",Tekyn offers a solution for on-demand clothing production.,"['Bpifrance', 'Région Île de France', 'business angels']"
+11,SmartHab ,1 M€,"Real Estate, Construction",SmartHab operates a solution to integrate connected objects in buildings.,['iffage Immobilier']
+11,Welmo ,400 000€,"Real Estate, Construction",Welmo is an online real estate agency with fixed fees.,['business angels']
+11,Legalstart ,15 M€,"Administrative, Legal, Accountancy",Legalstart is a legal document generation platform.,['SAI']
+11,Ividata ,NC,IT Consulting,Ividata is a consulting agency specialized in digital and Big Data.,"['Keensight', 'ISAI Expansion']"
+12,Doctolib ,150 M€,"Health, Beauty",Doctolib is a booking platform that helps to find a doctor nearby and make an appointment.,"['General Atlantic', 'Bpifrance', 'Eurazeo', 'Kernel', 'Accel', 'Kerala', 'business angels']"
+12,Dental Monitoring ,45 M€,"Health, Beauty",Dental Monitoring is a dental treatment monitoring app.,['itruvian Partners']
+12,Hesus ,10 M€,"Real Estate, Construction","Hesus is a solution for soils, material and construction wastes management.","['Paris Fonds Verts', 'Suez Ventures']"
+12,Oslo ,10 M€,Marketing & Communication,Oslo develops purchasing process optimization solutions for retailers and distribution companies.,['ime for Growth']
+12,Synapse Medicine ,2.5 M€,"Health, Beauty",Synapse Medicine provides AI solutions for healthcare and drug prescriptions.,"['XAnge', 'BNP Paribas Développement', 'Kima Ventures', 'Bpifrance', 'Région Nouvelle-Aquitaine']"
+12,Hellocare ,2 M€,"Health, Beauty",Hellocare provides telemedicine solutions for health advices & medical virtual assistant.,['oche Partners']
+12,Gamestream ,1.6 M€,Video Games,Gamestream provides video game streaming services.,"['2CRSI', 'business angels']"
+12,SpaceFill ,1 M€,"Logistic, Retail",SpaceFill is a B2B on-demand warehousing marketplace.,"['La Famiglia', 'The Family', 'business angels']"
+12,Coworkees ,1 M€,"HR, Education, Training, Jobbing",Coworkees connects freelancers and companies.,"['Baya Consulting', 'Crédit Agricole Alpes Développement,\xa0Intérim et Recrutement']"
+12,Iteca ,1 M€,Enterprise software,Iteca publishes industrial intelligence solutions.,"['Le Flohic Investissements', 'Région Nouvelle-Aquitaine', 'Bpifrance', 'Crédit Mutuel', 'business angels']"
+12,Dr Milou ,342 000€,Animals,Dr Milou offers a platform for connecting veterinarians and pet owners.,['business angels']
+13,Kyriba ,160 M€,Finance,Kyriba offers SaaS-based treasury solutions.,"['Bridgepoint', 'Iris Capital', 'Daher Capital']"
+13,WGF ,2 M€,Video Games,WGF (World Gaming Federation) is specialized in video game competitions organization.,"['Normandie Participations', 'Normandie Capital Invest', 'Bpifrance', 'business angels']"
+13,MyMerrys ,1.5 M€,Enterprise software,MyMerrys offers a loyalty solution for e-shoppers.,['business angels\xa0']
+13,Cosmian ,1.4 M€,Enterprise software,Cosmian publishes a data encryption platform.,"['Elaia', 'Acequia Capital', 'Financière de Blacailloux', 'business angels\xa0']"
+13,Oceasoft ,1 M€,Enterprise software,Oceasoft designs wireless monitoring solutions (for temperature or other).,['atel Capital']
+13,Quidol ,1 M€,Video Games,Quidol designs mobile gaming applications.,"['RedPill', 'business angels']"
+13,De Rigueur ,500 000€,"Fashion, Luxury",De Rigueur designs connected portfolios.,"['NellyRodi', 'Moneybox']"
+13,Dazzl ,450 000€,"Media, Culture and Entertainment","Dazzl is a video news network for content creators, media companies, and brands.","['IT-Translation Investissement', 'Crédit Agricole', 'Logoden Participations']"
+14,ManoMano ,110 M€,"Real Estate, Construction",ManoMano is an online DIY and garden ecommerce platform.,"['Eurazeo Growth', 'Aglaé Ventures', 'Bpifrance', 'CM-CIC', 'Partech', 'Piton', 'General Atlantic']"
+14,HR Path ,100 M€,"HR, Education, Training, Jobbing",HR Path provides human capital management technology.,"['Andera Partners', 'BNP Paribas', 'Société Générale', 'Crédit Agricole', 'Banque Palatine']"
+14,Agorize ,13 M€,IT Consulting,Agorize develops an open innovation platform for large companies.,"['Creadev', 'Sofiouest', 'Iris Capital', 'Capnamic Ventures']"
+14,Sqreen ,12.5 M€,Security & Cybersecurity,Sqreen is a monitoring and protection platform.,"['Greylock Partners', 'Y Combinator', 'Alven', 'Point Nine']"
+14,Simplon.co ,12 M€,"HR, Education, Training, Jobbing",Simplon.co offers a free program of 6-months training in web development & entrepreneurship.,"['Caisse des Dépôts', 'Amundi', 'Aviva Impact Investing', 'Esfin Gestion', 'France Active Investissement', 'Inco', 'Mirova', 'Phitrust Partenaires Europe']"
+14,SESAMm ,4.4 M€,Finance,SESAMm is specialized in big data and artificial intelligence for asset management.,"['Havenrock', ""Caisse d'Epargne"", 'Angelsquare', 'A-venture']"
+14,Zaion ,3 M€,Enterprise software,Zaion publishes a platform of conversational robots dedicated to customer relationship management.,"['La France Mutualiste', 'business angels']"
+14,Cycloid ,3 M€,Enterprise software,Cycloid is a DevOps platform that accelerates the transition of companies to the DevOps approach and cloud adoption.,['range Digital Venture']
+15,LumApps ,21 M€,Enterprise software,LumApps is a social and corporate intranet integrated in Google G Suite and Microsoft Office 365.,['dinvest']
+15,Qare ,20 M€,"Health, Beauty",Qare publishes a medical teleconsultation platform.,['amet Ventures']
+15,Devialet ,16 M€,"Media, Culture and Entertainment",Devialet is a manufacturer of high-end loudspeakers and amplifiers.,"['Korelya Capital', 'Ginko Ventures']"
+15,ReachFive ,8.9 M€,Marketing & Communication,ReachFive develops customer identity and access management solutions.,"['CapHorn Invest', 'Dawn Capital', 'Ventech']"
+15,Wilov ,3.2 M€,Finance,"Wilov offers a ""Pay when you drive"" car insurance.","['Arkéa', 'Allianz France']"
+15,Renovation Man ,3 M€,"Real Estate, Construction",Renovation Man is a digital platform that helps individuals in their renovation work.,['business angels']
+15,Myre ,2 M€,"Real Estate, Construction","Myre develops a platform that centralizes, processes and analyses data on real estate assets.","['Naxicap', 'Keys AM', 'business angels']"
+15,Nestwave ,2 M€,Enterprise software,Nestwave has developed a low-power geolocation solution.,"['Sofimac Innovation', 'The Faktory']"
+15,Ipaidthat ,1.5 M€,Finance,"Ipaidthat has developed a SaaS to collect invoices in real time, manage expense reports and synchronize bank accounts.","['Truffle Capital', 'Bpifrance', 'business angels']"
+15,Carvivo ,1.5 M€,Enterprise software,Carvivo has created a lead management tool.,"['Nord Capital Partenaires', 'Turenne Capital']"
+15,GwenneG ,1 M€,Finance,"GwenneG is a crowdfunding platform that supports projects, companies and associations.","['La Banque des Territoires', 'business angels']"
+15,Teazit ,600 000€,Marketing & Communication,"Teazit created an application to inform users of the traffic of a place (restaurant, bar, nightclub, etc.).",['business angels']
+15,Kannelle.io ,600 000€,Marketing & Communication,Kannelle.io develops an application for corporate video creation.,"['Bpifrance', 'business angels']"
+15,MesSortiesCE ,410 000€,Enterprise software,"MesSortiesCE is a platform for linking works councils, local authorities and associations with leisure professionals.","['Yeast', 'Région Grand-Est', 'Bpifrance', 'SODIV']"
+15,Lab2U ,160 000€,"Health, Beauty",Lab2U is a mobile application for blood sampling at home.,['NC']
