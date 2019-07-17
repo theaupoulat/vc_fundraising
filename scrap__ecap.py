@@ -3,8 +3,10 @@ import tweepy
 from bs4 import BeautifulSoup
 import pandas as pd
 import datetime
+import sys
 
 # twitter api identification
+"""
 consumer_key = ''
 consumer_secret = ''
 access_token = ''
@@ -26,8 +28,11 @@ for i in ecap_text:
         ecap_link = i
         break
 
-
+"""
 # bs content of the newsletter
+
+i = sys.argv[1]
+print(i)
 
 result = requests.get(i)
 src = result.content
@@ -36,7 +41,8 @@ soup = BeautifulSoup(src, 'lxml')
 table = soup.find_all("table", class_="mcnCaptionRightTextContentContainer")
 
 # setting up table for date
-all = [["week_num", "startup", "amount_raised", "sector", "description", "investors"]]
+all = [["week_num", "startup", "amount_raised",
+        "sector", "description", "investors"]]
 
 for t in table:
     row = []
@@ -44,7 +50,7 @@ for t in table:
 
 # week_num
     my_date = datetime.date.today()
-    week_num = my_date.isocalendar()[1]
+    week_num = sys.argv[2]  # my_date.isocalendar()[1]
     row.append(week_num)
 
 # name & amount
@@ -72,5 +78,5 @@ for t in table:
 
 
 # exporting new entries
-df = pd.DataFrame(all[1:], columns = all[0])
-df.to_csv('levee2019.csv', mode='a',index=False,header=False)
+df = pd.DataFrame(all[1:], columns=all[0])
+df.to_csv('levee2019.csv', mode='a', index=False, header=False)
