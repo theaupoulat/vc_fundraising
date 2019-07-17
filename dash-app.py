@@ -13,16 +13,77 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-# data analysis section
-df = pd.read_csv("./fr_2019/levee2019.csv")
+# ------------------ data parsing section ------------------
 
+df = pd.read_csv(
+    "https://raw.githubusercontent.com/theaupoulat/vc_fundraising/master/levee2019.csv")
+
+# format amount raised
+df["amount_raised"] = (df["amount_raised"]
+                       .str.replace("M", "000000")
+                       .str.replace(" ", "")
+                       .str.replace(".", "")
+                       .str.replace("€", "")
+                       .str.replace("NC", "0")
+                       .str.replace('\D', '')
+                       .astype(int)
+                       ) / 1000000
+
+# groupby object to extract aggregate values
+per_week = df.groupby("week_number")
+
+# dataframe creation for plotting purposes
+d = {'weekly_amount': per_week.amount_raised.sum(
+), "total_fundraisings": per_week.size()}
+df_week_recap = pd.DataFrame(data=d)
+weekly_data = [
+    {
+        "x": df_week_recap.index,
+        "y": df_week_recap["weekly_amount"],
+        "mode": "lines",
+        "line":{
+            "color": "rgb(219, 64, 82)"
+        },
+        "name": "millions"
+    },
+    {
+        "x": df_week_recap.index,
+        "y": df_week_recap["total_fundraisings"],
+        "type": "bar",
+        "name":"fundraisings",
+        "yaxis": 'y2',
+        "color":"red"
+    }
+]
+
+
+# ------------------ app design section ------------------
 
 app.layout = html.Div([
-    dcc.Graph(id='graph_with_slider'),
+    dcc.Graph(id='graph_with_slider',
+              figure={
+                  "data": weekly_data,
+                  "layout": {
+                      "title": "Weekly summary",
+                      "yaxis": {
+                          "title": "Weekly amount",
+                          "overlaying": "y2"
+                      },
+                      "yaxis2": {
+                          "title": "Fundraisings",
+                          "tick0": 0,
+                          "dtick": 4,
+                          "side": "right",
+                          "showgrid": False
+                      }
+                  }
+              }
+              ),
 
 ])
 
 
+"""
 @app.callback(
     Output('graph_with_slider', 'figure'),
     [Input('year-slider', 'value')])
@@ -54,6 +115,7 @@ def update_figure(selected_year):
         )
     }
 
-
+"""
+# ------------------ debugger activation ------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
